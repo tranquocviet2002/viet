@@ -1,0 +1,1589 @@
+# Copyright (C) 2024 pewilliams
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Soccer Academy 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/soccer-academy\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-04T17:47:57+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: soccer-academy\n"
+
+#. Theme Name of the theme
+#: style.css
+#: functions.php:116
+msgid "Soccer Academy"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/free-soccer-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Soccer Academy is a dynamic and comprehensive website template meticulously crafted for soccer clubs, academies, and sports organisations. Designed for youth soccer, football training, sports coaching, soccer drills, team training, sports camp, football academy, athletic training, sports development and soccer programs. With its engaging design and robust features, this theme serves as an all-inclusive platform to showcase your soccer programs, events, and team achievements. The theme’s layout is designed to reflect the energy and enthusiasm of the sport, captivating visitors from the moment they land on your site. Soccer Academy offers a variety of tools to cater to your soccer-centric needs. It features customizable sections for displaying team rosters, schedules, match results, and player profiles, fostering an immersive experience for both fans and players. A dedicated blog section allows you to share match insights, training tips, and industry news, establishing your academy as an authoritative source of soccer information. The responsive design ensures that your site looks and functions flawlessly across all devices, from desktops to mobile phones, facilitating convenient access for users on the go. This theme’s user-friendly customization options empower you to personalise colours, fonts, and layouts to align with your academy’s branding. It seamlessly integrates with social media platforms, enabling you to expand your reach and foster a sense of community among fans and players. Demo: https://trial.ovationthemes.com/soccer-academy/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: 404.php:23
+#: 404.php:51
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+#: 404.php:55
+msgid "GO BACK"
+msgstr ""
+
+#: 404.php:32
+#: 404.php:52
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 404.php:50
+msgid "404"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:117
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr ""
+
+#: functions.php:120
+#: inc/dashboard/dashboard.php:119
+msgid "Live Demo"
+msgstr ""
+
+#: functions.php:121
+#: inc/dashboard/dashboard.php:120
+msgid "Buy Now"
+msgstr ""
+
+#: functions.php:122
+#: inc/dashboard/dashboard.php:5
+msgid "Begin Installation"
+msgstr ""
+
+#: functions.php:200
+msgid "Soccer Academy WordPress Theme"
+msgstr ""
+
+#: functions.php:203
+msgid " By Ovation Themes"
+msgstr ""
+
+#: functions.php:301
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:338
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:340
+#: functions.php:360
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:348
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:350
+msgid "Add widgets here to appear in your pages and posts"
+msgstr ""
+
+#: functions.php:358
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:368
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:370
+#: functions.php:380
+#: functions.php:390
+#: functions.php:400
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:378
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:388
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:398
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:94
+#: template-parts/navigation/navigation.php:11
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-header.php:22
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer-home-page.php:11
+msgid "Custom Page Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:16
+msgid "Contact info"
+msgstr ""
+
+#: inc/customizer-home-page.php:25
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:26
+msgid "Add contact info in the below feilds"
+msgstr ""
+
+#: inc/customizer-home-page.php:36
+msgid "Add Contact Icon"
+msgstr ""
+
+#: inc/customizer-home-page.php:47
+msgid "Add Phone Number"
+msgstr ""
+
+#: inc/customizer-home-page.php:57
+msgid "Add Email Address"
+msgstr ""
+
+#: inc/customizer-home-page.php:65
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer-home-page.php:74
+msgid "Social Media Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:75
+msgid "Add social media links in the below feilds"
+msgstr ""
+
+#: inc/customizer-home-page.php:97
+msgid "Check to show social fields"
+msgstr ""
+
+#: inc/customizer-home-page.php:99
+#: inc/customizer-home-page.php:162
+#: inc/customizer-home-page.php:221
+#: inc/customizer-home-page.php:280
+#: inc/customizer-home-page.php:339
+#: inc/customizer-home-page.php:383
+#: inc/customizer-home-page.php:440
+#: inc/customizer-home-page.php:482
+#: inc/customizer-home-page.php:554
+#: inc/customizer.php:79
+#: inc/customizer.php:104
+#: inc/customizer.php:316
+#: inc/customizer.php:353
+#: inc/customizer.php:453
+#: inc/customizer.php:523
+#: inc/customizer.php:562
+#: inc/customizer.php:636
+#: inc/customizer.php:677
+#: inc/customizer.php:718
+#: inc/customizer.php:755
+#: inc/customizer.php:792
+#: inc/customizer.php:821
+#: inc/customizer.php:980
+#: inc/customizer.php:1033
+#: inc/customizer.php:1074
+#: inc/customizer.php:1115
+#: inc/customizer.php:1201
+#: inc/customizer.php:1247
+#: inc/customizer.php:1285
+#: inc/customizer.php:1495
+#: inc/customizer.php:1538
+#: inc/customizer.php:1566
+#: inc/customizer.php:1604
+#: inc/customizer.php:1631
+#: inc/customizer.php:1659
+msgid "On"
+msgstr ""
+
+#: inc/customizer-home-page.php:100
+#: inc/customizer-home-page.php:163
+#: inc/customizer-home-page.php:222
+#: inc/customizer-home-page.php:281
+#: inc/customizer-home-page.php:340
+#: inc/customizer-home-page.php:384
+#: inc/customizer-home-page.php:441
+#: inc/customizer-home-page.php:483
+#: inc/customizer-home-page.php:555
+#: inc/customizer.php:80
+#: inc/customizer.php:105
+#: inc/customizer.php:317
+#: inc/customizer.php:354
+#: inc/customizer.php:454
+#: inc/customizer.php:524
+#: inc/customizer.php:563
+#: inc/customizer.php:637
+#: inc/customizer.php:678
+#: inc/customizer.php:719
+#: inc/customizer.php:756
+#: inc/customizer.php:793
+#: inc/customizer.php:822
+#: inc/customizer.php:981
+#: inc/customizer.php:1034
+#: inc/customizer.php:1075
+#: inc/customizer.php:1116
+#: inc/customizer.php:1202
+#: inc/customizer.php:1248
+#: inc/customizer.php:1286
+#: inc/customizer.php:1496
+#: inc/customizer.php:1539
+#: inc/customizer.php:1567
+#: inc/customizer.php:1605
+#: inc/customizer.php:1632
+#: inc/customizer.php:1660
+msgid "Off"
+msgstr ""
+
+#: inc/customizer-home-page.php:112
+msgid "Twitter Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:122
+#: inc/customizer-home-page.php:185
+#: inc/customizer-home-page.php:244
+#: inc/customizer-home-page.php:303
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer-home-page.php:137
+#: inc/customizer-home-page.php:196
+#: inc/customizer-home-page.php:255
+#: inc/customizer-home-page.php:314
+msgid "Add URL"
+msgstr ""
+
+#: inc/customizer-home-page.php:160
+#: inc/customizer-home-page.php:219
+#: inc/customizer-home-page.php:278
+#: inc/customizer-home-page.php:337
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/customizer-home-page.php:175
+msgid "Linkedin Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:234
+msgid "Youtube Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:293
+msgid "Instagram Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:349
+#: inc/customizer-home-page.php:358
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:359
+msgid "Slider Image Dimension ( 600px x 700px )"
+msgstr ""
+
+#: inc/customizer-home-page.php:381
+msgid "Check To Show Slider"
+msgstr ""
+
+#: inc/customizer-home-page.php:395
+msgid "Slider Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:403
+msgid "Select"
+msgstr ""
+
+#: inc/customizer-home-page.php:414
+msgid "Select post"
+msgstr ""
+
+#: inc/customizer-home-page.php:438
+msgid "Show Hide excerpt"
+msgstr ""
+
+#: inc/customizer-home-page.php:452
+#: inc/customizer.php:942
+msgid "Excerpt Limit"
+msgstr ""
+
+#: inc/customizer-home-page.php:480
+msgid "Show Hide Button"
+msgstr ""
+
+#: inc/customizer-home-page.php:493
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:509
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: inc/customizer-home-page.php:512
+#: inc/customizer-home-page.php:732
+#: inc/customizer.php:473
+msgid "LEFT"
+msgstr ""
+
+#: inc/customizer-home-page.php:513
+#: inc/customizer-home-page.php:733
+#: inc/customizer.php:474
+msgid "CENTER"
+msgstr ""
+
+#: inc/customizer-home-page.php:514
+#: inc/customizer-home-page.php:734
+#: inc/customizer.php:475
+msgid "RIGHT"
+msgstr ""
+
+#: inc/customizer-home-page.php:521
+msgid "Player Section"
+msgstr ""
+
+#: inc/customizer-home-page.php:530
+msgid "Player Section Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:552
+msgid "Check To Show Section"
+msgstr ""
+
+#: inc/customizer-home-page.php:566
+msgid "Sub Heading"
+msgstr ""
+
+#: inc/customizer-home-page.php:576
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer-home-page.php:586
+msgid "Slider Increament"
+msgstr ""
+
+#: inc/customizer-home-page.php:603
+msgid "Player Image "
+msgstr ""
+
+#: inc/customizer-home-page.php:612
+msgid "Heading 1"
+msgstr ""
+
+#: inc/customizer-home-page.php:622
+msgid "Team Name"
+msgstr ""
+
+#: inc/customizer-home-page.php:632
+msgid "Player No"
+msgstr ""
+
+#: inc/customizer-home-page.php:642
+msgid "Birth Date"
+msgstr ""
+
+#: inc/customizer-home-page.php:647
+msgid "Ex: 16 Feb 1988"
+msgstr ""
+
+#: inc/customizer-home-page.php:655
+msgid "Age"
+msgstr ""
+
+#: inc/customizer-home-page.php:660
+msgid "Ex:40 Years"
+msgstr ""
+
+#: inc/customizer-home-page.php:668
+msgid "Country"
+msgstr ""
+
+#: inc/customizer-home-page.php:678
+#: page-template/custom-home-page.php:156
+msgid "Height"
+msgstr ""
+
+#: inc/customizer-home-page.php:688
+#: page-template/custom-home-page.php:162
+msgid "Weight"
+msgstr ""
+
+#: inc/customizer-home-page.php:698
+#: inc/dashboard/dashboard.php:94
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:706
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer-home-page.php:715
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer-home-page.php:729
+msgid "Footer Content Alignment"
+msgstr ""
+
+#: inc/customizer-home-page.php:749
+msgid "Footer Per Column"
+msgstr ""
+
+#: inc/customizer-home-page.php:752
+#: inc/customizer.php:913
+msgid "1"
+msgstr ""
+
+#: inc/customizer-home-page.php:753
+#: inc/customizer.php:914
+msgid "2"
+msgstr ""
+
+#: inc/customizer-home-page.php:754
+#: inc/customizer.php:915
+msgid "3"
+msgstr ""
+
+#: inc/customizer-home-page.php:755
+#: inc/customizer.php:916
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:29
+#: inc/customizer.php:1732
+#: inc/customizer.php:1766
+msgid "UPGRADE SOCCER ACADEMY PREMIUM"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "SOCCER ACADEMY PREMIUM"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Show Site Title"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Show Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:114
+#: inc/customizer.php:124
+msgid "Global Colors"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Primary Light Color"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Player Section Colors"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Player content Bg"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Player text bg"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "Player height/weight Box Color 1"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Player height/weight Box Color 2"
+msgstr ""
+
+#: inc/customizer.php:216
+#: inc/customizer.php:258
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Select your suitable font for the headings."
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Select your suitable font for the body."
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Theme General Settings"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Sticky header Setting"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Show Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Loader Setting"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Show Site Loader"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "Select Loader Design"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Bar"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Theme Width Setting"
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "Theme Width Option"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "fullwidth"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "container"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "container fluid"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Menu Setting"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Menus Text Transform"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "CAPITALISE"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "LOWERCASE"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Scroll Top Settings"
+msgstr ""
+
+#: inc/customizer.php:451
+msgid "show Scroll Top"
+msgstr ""
+
+#: inc/customizer.php:470
+msgid "Scroll Top Alignment"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "Add Scroll Top Icon"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Cursor Setting"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "show custom cursor"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Animation Setting"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "show/Hide Animation"
+msgstr ""
+
+#: inc/customizer.php:572
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer.php:576
+msgid "Single-Post Layout"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Single Post Structure"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "select Single Post Page Layout"
+msgstr ""
+
+#: inc/customizer.php:605
+#: inc/customizer.php:867
+#: inc/customizer.php:1337
+#: inc/customizer.php:1366
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:609
+#: inc/customizer.php:871
+#: inc/customizer.php:1341
+#: inc/customizer.php:1370
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:613
+#: inc/customizer.php:875
+#: inc/customizer.php:1400
+#: inc/customizer.php:1453
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:634
+#: inc/customizer.php:978
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer.php:653
+#: inc/customizer.php:1009
+msgid "date Icon"
+msgstr ""
+
+#: inc/customizer.php:675
+#: inc/customizer.php:1031
+msgid "Show Author/Admin"
+msgstr ""
+
+#: inc/customizer.php:694
+#: inc/customizer.php:1050
+msgid "Author Icon"
+msgstr ""
+
+#: inc/customizer.php:716
+#: inc/customizer.php:1072
+msgid "Show Comment"
+msgstr ""
+
+#: inc/customizer.php:731
+#: inc/customizer.php:1091
+msgid "comment Icon"
+msgstr ""
+
+#: inc/customizer.php:753
+#: inc/customizer.php:1113
+msgid "Show tag count"
+msgstr ""
+
+#: inc/customizer.php:768
+#: inc/customizer.php:1132
+msgid "tag Icon"
+msgstr ""
+
+#: inc/customizer.php:790
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer.php:819
+msgid "Show Similar post"
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Similar Post Heading"
+msgstr ""
+
+#: inc/customizer.php:839
+msgid "Archieve-Post Layout"
+msgstr ""
+
+#: inc/customizer.php:848
+msgid "Archieve Post Structure"
+msgstr ""
+
+#: inc/customizer.php:862
+msgid "select Post Page Layout"
+msgstr ""
+
+#: inc/customizer.php:879
+#: inc/customizer.php:1402
+#: inc/customizer.php:1455
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer.php:883
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer.php:887
+msgid "Grid-Right-Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:891
+msgid "Grid-Left-Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:895
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:910
+msgid "Grid Post Per Row"
+msgstr ""
+
+#: inc/customizer.php:925
+msgid "Post Order"
+msgstr ""
+
+#: inc/customizer.php:926
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr ""
+
+#: inc/customizer.php:929
+msgid "title"
+msgstr ""
+
+#: inc/customizer.php:930
+msgid "media"
+msgstr ""
+
+#: inc/customizer.php:931
+msgid "meta"
+msgstr ""
+
+#: inc/customizer.php:932
+msgid "excerpt"
+msgstr ""
+
+#: inc/customizer.php:933
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer.php:957
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer.php:993
+msgid "Sticky Post Icon"
+msgstr ""
+
+#: inc/customizer.php:1146
+msgid "Header Image Settings"
+msgstr ""
+
+#: inc/customizer.php:1158
+msgid "Select Option"
+msgstr ""
+
+#: inc/customizer.php:1161
+msgid "With Header Image"
+msgstr ""
+
+#: inc/customizer.php:1162
+msgid "Without Header Image"
+msgstr ""
+
+#: inc/customizer.php:1168
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:1177
+msgid "Theme Breadcrumb Setting"
+msgstr ""
+
+#: inc/customizer.php:1199
+#: inc/customizer.php:1245
+#: inc/customizer.php:1283
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1213
+#: inc/customizer.php:1297
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:1223
+msgid "Single post & Page"
+msgstr ""
+
+#: inc/customizer.php:1261
+msgid "Woocommerce Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1306
+msgid "Custom Woocommerce Settings"
+msgstr ""
+
+#: inc/customizer.php:1317
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer.php:1331
+msgid "Show Shop Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1345
+#: inc/customizer.php:1374
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:1360
+msgid "Show Single Product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1385
+msgid "Archieve Product Settings"
+msgstr ""
+
+#: inc/customizer.php:1397
+#: inc/customizer.php:1450
+msgid "Select No of Columns"
+msgstr ""
+
+#: inc/customizer.php:1401
+#: inc/customizer.php:1454
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:1403
+#: inc/customizer.php:1456
+msgid "four Column"
+msgstr ""
+
+#: inc/customizer.php:1404
+#: inc/customizer.php:1457
+msgid "Five Column"
+msgstr ""
+
+#: inc/customizer.php:1405
+#: inc/customizer.php:1458
+msgid "Six Column"
+msgstr ""
+
+#: inc/customizer.php:1416
+#: inc/customizer.php:1469
+msgid "Display Products"
+msgstr ""
+
+#: inc/customizer.php:1431
+msgid "Related Product Settings"
+msgstr ""
+
+#: inc/customizer.php:1440
+msgid "Related Products Heading"
+msgstr ""
+
+#: inc/customizer.php:1493
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/customizer.php:1504
+#: inc/customizer.php:1513
+msgid "Mobile Media settings"
+msgstr ""
+
+#: inc/customizer.php:1535
+msgid "Show Slider Button"
+msgstr ""
+
+#: inc/customizer.php:1536
+msgid "Control wont function if the button is off in the main slider settings."
+msgstr ""
+
+#: inc/customizer.php:1563
+msgid "Show Scroll Top"
+msgstr ""
+
+#: inc/customizer.php:1564
+msgid "Control wont function if scroll-top is off in the main settings."
+msgstr ""
+
+#: inc/customizer.php:1579
+msgid "Mobile Breadcrumb settings"
+msgstr ""
+
+#: inc/customizer.php:1581
+msgid "Controls wont function if the breadcrumb is off in the main breadcrumb settings."
+msgstr ""
+
+#: inc/customizer.php:1602
+msgid "Theme Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1629
+msgid "Single Post & Page"
+msgstr ""
+
+#: inc/customizer.php:1657
+msgid "wooCommerce Breadcrumb"
+msgstr ""
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:1693
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:1694
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr ""
+
+#: inc/customizer.php:1723
+#: inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/products/soccer-club-wordpress-theme"
+msgstr ""
+
+#: inc/customizer.php:1738
+msgid "SOCCER ACADEMY PREMIUM - Features"
+msgstr ""
+
+#: inc/customizer.php:1740
+#: inc/dashboard/dashboard.php:125
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/customizer.php:1741
+#: inc/dashboard/dashboard.php:126
+msgid "Boxed or fullwidth layout"
+msgstr ""
+
+#: inc/customizer.php:1742
+#: inc/dashboard/dashboard.php:127
+msgid "Shortcode Support"
+msgstr ""
+
+#: inc/customizer.php:1743
+#: inc/dashboard/dashboard.php:128
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/customizer.php:1744
+#: inc/dashboard/dashboard.php:129
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/customizer.php:1745
+#: inc/dashboard/dashboard.php:130
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/customizer.php:1746
+#: inc/dashboard/dashboard.php:131
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: inc/customizer.php:1747
+#: inc/dashboard/dashboard.php:132
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/customizer.php:1748
+#: inc/dashboard/dashboard.php:133
+msgid "Designed with HTML5 and CSS3"
+msgstr ""
+
+#: inc/customizer.php:1749
+#: inc/dashboard/dashboard.php:134
+msgid "Customizable Design & Code"
+msgstr ""
+
+#: inc/customizer.php:1750
+#: inc/dashboard/dashboard.php:135
+msgid "Cross Browser Support"
+msgstr ""
+
+#: inc/customizer.php:1751
+#: inc/dashboard/dashboard.php:136
+msgid "Detailed Documentation Included"
+msgstr ""
+
+#: inc/customizer.php:1752
+#: inc/dashboard/dashboard.php:137
+msgid "Stylish Custom Widgets"
+msgstr ""
+
+#: inc/customizer.php:1753
+#: inc/dashboard/dashboard.php:138
+msgid "Patterns Background"
+msgstr ""
+
+#: inc/customizer.php:1754
+#: inc/dashboard/dashboard.php:139
+msgid "WPML Compatible (Translation Ready)"
+msgstr ""
+
+#: inc/customizer.php:1755
+#: inc/dashboard/dashboard.php:140
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: inc/customizer.php:1756
+#: inc/dashboard/dashboard.php:141
+msgid "Full Support"
+msgstr ""
+
+#: inc/customizer.php:1757
+#: inc/dashboard/dashboard.php:142
+msgid "10+ Sections"
+msgstr ""
+
+#: inc/customizer.php:1758
+#: inc/dashboard/dashboard.php:143
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/customizer.php:1759
+#: inc/dashboard/dashboard.php:144
+msgid "AMP Ready"
+msgstr ""
+
+#: inc/customizer.php:1760
+#: inc/dashboard/dashboard.php:145
+msgid "Clean Code"
+msgstr ""
+
+#: inc/customizer.php:1761
+msgid "Business Friendly"
+msgstr ""
+
+#: inc/customizer.php:1762
+#: inc/dashboard/dashboard.php:147
+msgid "Supper Fast"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/soccer-academy/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/soccer-academy/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://trial.ovationthemes.com/soccer-academy/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://trial.ovationthemes.com/docs/ot-soccer-academy-pro-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:29
+msgid "https://trial.ovationthemes.com/docs/ot-soccer-academy-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:32
+msgid "Premium Soccer Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:48
+msgid "Version: "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:52
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:53
+msgid "Support"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:54
+msgid "Review"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:60
+msgid "DEMO IMPORT"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:61
+msgid "To import all of the demo content, click the Begin with Demo Import button."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:69
+#: inc/dashboard/dashboard.php:121
+msgid "Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:70
+msgid "To setup the soccer academy theme follow the below steps."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:72
+msgid "1. Setup Logo"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:73
+msgid "Go to dashboard >> Appearance >> Customize >> Site Identity >> Upload your logo or Add site title and site description."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:74
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:76
+msgid "2. Setup Contact Info"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:77
+msgid "Go to dashboard >> Appearance >> Customize >> Contact info >> Add your phone number and email address."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:78
+msgid "Add Contact Info"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:80
+msgid "3. Setup Menus"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:81
+msgid "Go to dashboard >> Appearance >> Menus >> Create Menus >> Add pages, post or custom link then save it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:82
+msgid "Add Menus"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:84
+msgid "4. Setup Social Icons"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:85
+msgid "Go to dashboard >> Appearance >> Customize >> Social Media >> Add social links."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:86
+msgid "Add Social Icons"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:88
+msgid "5. Setup Footer"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:89
+msgid "Go to dashboard >> Appearance >> Widgets >> Add widgets in footer 1, footer 2, footer 3, footer 4. >> "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:90
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:92
+msgid "5. Setup Footer Text"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:93
+msgid "Go to dashboard >> Appearance >> Customize >> Footer Text >> Add copyright text. >> "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:96
+msgid "Setup Home Page"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:97
+msgid "To step the home page follow the below steps."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:99
+msgid "1. Setup Page"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:100
+msgid "Go to dashboard >> Pages >> Add New Page >> Select \"Custom Home Page\" from templates >> Publish it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:101
+msgid "Add New Page"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:103
+msgid "2. Setup Slider"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:104
+msgid "Go to dashboard >> Post >> Add New Post >> Add title, content and featured image >> Publish it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:105
+msgid "Go to dashboard >> Appearance >> Customize >> Slider Settings >> Select post."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:106
+msgid "Add Slider"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:108
+msgid "3. Setup Player Section"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:109
+msgid "Go to dashboard >> Post >> Add New Post Category >> Add New Post >> Add title, content, select post category and featured image >> Publish it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:110
+msgid "Go to dashboard >> Appearance >> Customize >> Player Settings >> Add section heading, Add Details and publish it."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:111
+msgid "Add players"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:146
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/dashboard/setup.php:108
+msgid "Home"
+msgstr ""
+
+#: inc/dashboard/setup.php:116
+msgid "Pages"
+msgstr ""
+
+#: inc/dashboard/setup.php:124
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/dashboard/setup.php:133
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/dashboard/setup.php:141
+msgid "About Us"
+msgstr ""
+
+#: inc/dashboard/setup.php:148
+msgid "News"
+msgstr ""
+
+#: inc/dashboard/setup.php:155
+msgid "Contact Us"
+msgstr ""
+
+#: inc/dashboard/setup.php:240
+msgid "If your website is already live and containing data, please make a backup.This importer will override the Soccer Academy's new customizable values."
+msgstr ""
+
+#: inc/dashboard/setup.php:243
+msgid "View Site"
+msgstr ""
+
+#: inc/icon-picker.php:19
+msgctxt "placeholder"
+msgid "Icon"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:37
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: index.php:37
+#: index.php:65
+msgid "Posts"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr ""
+
+#: page-template/custom-home-page.php:54
+#: template-parts/post/content-audio.php:56
+#: template-parts/post/content-gallery.php:64
+#: template-parts/post/content-image.php:57
+#: template-parts/post/content-video.php:54
+#: template-parts/post/content.php:45
+#: template-parts/post/grid-audio.php:67
+#: template-parts/post/grid-gallery.php:75
+#: template-parts/post/grid-image.php:68
+#: template-parts/post/grid-video.php:66
+#: template-parts/post/grid.php:56
+#: template-parts/post/similar-post.php:47
+msgid "Read More"
+msgstr ""
+
+#: page-template/custom-home-page.php:144
+msgid "Born:"
+msgstr ""
+
+#: page-template/custom-home-page.php:147
+msgid "Age: "
+msgstr ""
+
+#: page-template/custom-home-page.php:150
+msgid "Country: "
+msgstr ""
+
+#: page-template/custom-home-page.php:158
+msgid "ft"
+msgstr ""
+
+#: page-template/custom-home-page.php:164
+msgid "kg"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Left Sidebar Template"
+msgstr ""
+
+#: page-template/left-sidebar.php:45
+#: page-template/left-sidebar.php:89
+#: page-template/right-sidebar.php:41
+#: page-template/right-sidebar.php:85
+#: page.php:42
+#: page.php:78
+msgid "Pages:"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Right Sidebar Template"
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:25
+#: search.php:54
+msgid "Results For: %s"
+msgstr ""
+
+#: search.php:37
+#: search.php:65
+msgid "Nothing Found"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:13
+#: template-parts/footer/footer-widgets.php:87
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:17
+#: template-parts/footer/footer-widgets.php:76
+msgid "Recent Posts"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:57
+msgid "Archieves"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:67
+msgid "Categories"
+msgstr ""
+
+#: template-parts/navigation/navigation.php:21
+msgid "Close Menu"
+msgstr ""
+
+#: template-parts/post/content-audio.php:37
+#: template-parts/post/content-gallery.php:45
+#: template-parts/post/content-image.php:40
+#: template-parts/post/content-quote.php:20
+#: template-parts/post/content-video.php:35
+#: template-parts/post/content.php:26
+#: template-parts/post/grid-audio.php:48
+#: template-parts/post/grid-gallery.php:56
+#: template-parts/post/grid-image.php:51
+#: template-parts/post/grid-quote.php:31
+#: template-parts/post/grid-video.php:47
+#: template-parts/post/grid.php:37
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/post/content-audio.php:46
+#: template-parts/post/content-gallery.php:54
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-quote.php:29
+#: template-parts/post/content-video.php:44
+#: template-parts/post/content.php:35
+#: template-parts/post/grid-audio.php:57
+#: template-parts/post/grid-gallery.php:65
+#: template-parts/post/grid-image.php:60
+#: template-parts/post/grid-quote.php:40
+#: template-parts/post/grid-video.php:56
+#: template-parts/post/grid.php:46
+#: template-parts/post/single-page.php:39
+#: template-parts/post/single-page.php:202
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/post/content-audio.php:46
+#: template-parts/post/content-gallery.php:54
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-quote.php:29
+#: template-parts/post/content-video.php:44
+#: template-parts/post/content.php:35
+#: template-parts/post/grid-audio.php:57
+#: template-parts/post/grid-gallery.php:65
+#: template-parts/post/grid-image.php:60
+#: template-parts/post/grid-quote.php:40
+#: template-parts/post/grid-video.php:56
+#: template-parts/post/grid.php:46
+#: template-parts/post/single-page.php:39
+#: template-parts/post/single-page.php:202
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/post/post-layout.php:28
+#: template-parts/post/post-layout.php:57
+#: template-parts/post/post-layout.php:84
+#: template-parts/post/post-layout.php:112
+#: template-parts/post/post-layout.php:141
+#: template-parts/post/post-layout.php:170
+#: template-parts/post/post-layout.php:199
+#: template-parts/post/post-layout.php:226
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/post/post-layout.php:29
+#: template-parts/post/post-layout.php:58
+#: template-parts/post/post-layout.php:85
+#: template-parts/post/post-layout.php:113
+#: template-parts/post/post-layout.php:142
+#: template-parts/post/post-layout.php:171
+#: template-parts/post/post-layout.php:200
+#: template-parts/post/post-layout.php:227
+msgid "Next page"
+msgstr ""
+
+#: template-parts/post/post-layout.php:30
+#: template-parts/post/post-layout.php:59
+#: template-parts/post/post-layout.php:86
+#: template-parts/post/post-layout.php:114
+#: template-parts/post/post-layout.php:143
+#: template-parts/post/post-layout.php:172
+#: template-parts/post/post-layout.php:201
+#: template-parts/post/post-layout.php:228
+msgid "Page"
+msgstr ""
+
+#: template-parts/post/similar-post.php:27
+msgid "Explore More"
+msgstr ""
+
+#: template-parts/post/single-page.php:80
+#: template-parts/post/single-page.php:123
+#: template-parts/post/single-page.php:164
+#: template-parts/post/single-page.php:245
+#: template-parts/post/single-page.php:291
+#: template-parts/post/single-page.php:335
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/post/single-page.php:80
+#: template-parts/post/single-page.php:123
+#: template-parts/post/single-page.php:164
+#: template-parts/post/single-page.php:245
+#: template-parts/post/single-page.php:291
+#: template-parts/post/single-page.php:335
+msgid "Previous"
+msgstr ""
+
+#: template-parts/post/single-page.php:81
+#: template-parts/post/single-page.php:124
+#: template-parts/post/single-page.php:165
+#: template-parts/post/single-page.php:246
+#: template-parts/post/single-page.php:292
+#: template-parts/post/single-page.php:336
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/post/single-page.php:81
+#: template-parts/post/single-page.php:124
+#: template-parts/post/single-page.php:165
+#: template-parts/post/single-page.php:246
+#: template-parts/post/single-page.php:292
+#: template-parts/post/single-page.php:336
+msgid "Next"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
